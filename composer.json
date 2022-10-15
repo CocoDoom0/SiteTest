@@ -1,0 +1,7 @@
+{
+    "require": {
+        "doctrine/orm": "^2.13",
+        "doctrine/doctrine-bundle": "^2.7",
+        "symfony/orm-pack": "^2.2"
+    }
+}
